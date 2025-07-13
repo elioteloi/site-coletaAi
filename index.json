@@ -1,0 +1,75 @@
+[
+  {
+    "bairro": "Lagoa da Conceição",
+    "associacao": "Sociedade Amigos da Lagoa (SAL)",
+    "endereco": "Rua Henrique Veras do Nascimento, 350",
+    "descritption": "A SAL é uma das mais tradicionais associações da ilha. Seu objetivo é promover a convivência e o bem-estar social por meio de ações culturais, recreativas, cívicas e esportivas. Além disso, atua na preservação ambiental e no desenvolvimento sustentável da Lagoa.",
+    "materiais": [
+      "Recicláveis secos (papel/papelão, plásticos, metais, vidro, isopor)",
+      "Óleo de cozinha usado (até 5 L por entrega)",
+      "Pilhas e baterias (até 10 unid.)",
+      "Resíduos eletrônicos e eletrodomésticos de pequeno porte",
+      "Pneus (até 4 unid.)",
+      "Madeira/pequenos volumosos (móveis, colchões) ‑ até 1 m³",
+      "Entulho de construção civil limpo ‑ até 1 m³",
+      "Podas de árvores – até 1 m³"
+    ],
+    "latitude": -27.6018,
+    "longitude": -48.4807
+  },
+  {
+    "bairro": "Bom Abrigo",
+    "associacao": "Associação de Moradores e Amigos do Bom Abrigo (AMABA)",
+    "endereco": "Área central de Bom Abrigo",
+    "descritption": "Situada em um dos bairros mais tranquilos do sul da ilha, a AMABA promove o envolvimento comunitário e busca melhorias para a qualidade de vida dos moradores.",
+    "materiais": [
+      "Recicláveis secos (papel/papelão, plásticos, metais, vidro, isopor)",
+      "Óleo de cozinha usado (até 5 L)",
+      "Pilhas e baterias",
+      "Eletroeletrônicos",
+      "Pneus",
+      "Volumosos leves (móveis, colchões) ‑ até 1 m³",
+      "Madeira",
+      "Entulho de obra ‑ até 1 m³"
+    ],
+    "latitude": -27.6191,
+    "longitude": -48.5102
+  },
+  {
+    "bairro": "Itacorubi",
+    "associacao": "Associação do Bairro Itacorubi",
+    "endereco": "Rodovia Admar Gonzaga, 1588",
+    "descritption": "Localizada em uma das regiões de maior crescimento urbano, essa associação representa os moradores do Itacorubi e se mobiliza por melhores condições de infraestrutura, mobilidade e segurança.",
+    "materiais": [
+      "Recicláveis secos (papel/papelão, plásticos, metais, vidro, isopor)",
+      "Óleo de cozinha usado",
+      "Pilhas e baterias",
+      "Eletrônicos e eletrodomésticos",
+      "Pneus",
+      "Madeira/volumosos",
+      "Entulho de construção civil",
+      "Podas de jardim"
+    ],
+    "latitude": -27.5958,
+    "longitude": -48.5336
+  },
+  {
+    "bairro": "Trindade",
+    "associacao": "SAC – Associação Amigos do Curió (Curiódromo da Ilha)",
+    "endereco": "Próximo à UFSC, Trindade",
+    "descritption": "A SAC tem foco na preservação e valorização do Curiódromo da Ilha, um espaço tradicional para amantes do canto de curiós. A associação busca unir os moradores da Trindade em torno da cultura popular e da proteção ambiental.",
+    "materiais": [
+      "Recicláveis secos (papel/papelão, plásticos, metais, vidro, isopor)",
+      "Óleo de cozinha usado",
+      "Pilhas e baterias",
+      "Resíduos eletrônicos",
+      "Pneus",
+      "Madeira/volumosos",
+      "Entulho de obra",
+      "Podas de árvores"
+    ],
+    "latitude": -27.6170,
+    "longitude": -48.5290
+  }
+]
+

@@ -1,0 +1,69 @@
+#buttonNGO {
+  box-shadow: 3px 2px 7px black;
+  border-radius: 4px;
+}
+
+html, body {
+      height: 100%;
+      margin: 0;
+}
+#map {
+      width: 100%;
+      height: 100%
+}
+
+#navbar {
+  justify-content: center;
+  display: grid;
+}
+
+
+#screen {
+  height: 100%;
+  width: 100%;
+  display: flex;
+}
+
+button {
+  border: none;
+  background: white;
+}
+
+button:hover {
+  border: none;
+  background: rgb(245, 210, 210);
+  
+}
+
+#titleHome {
+  justify-content: center;
+  display: flex;
+}
+
+#divONG {
+  display: grid;
+  gap: 15px;
+  justify-content: center;
+}
+
+#div {
+  width: 100%;
+}
+
+#buttonNGO {
+  display: flex;
+}
+
+#pin {
+  padding-top: 16px;
+  padding-right: 10px;
+}
+
+#buttonNGO {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+#buttonNGO:hover {
+    padding: 20px;
+}

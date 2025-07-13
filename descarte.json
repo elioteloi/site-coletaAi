@@ -1,0 +1,29 @@
+{
+  "descartes": [
+    {
+      "tipo": "Lixo Doméstico Comum",
+      "exemplos": ["restos de comida", "papel sujo", "fraldas descartáveis"],
+      "como_descartar": "Usar sacos plásticos resistentes. Evitar líquidos e objetos cortantes soltos."
+    },
+    {
+      "tipo": "Recicláveis",
+      "exemplos": ["papel limpo", "plástico", "vidro", "metal"],
+      "como_descartar": "Separar do lixo comum e entregar em cooperativas, ecopontos ou programas de coleta seletiva."
+    },
+    {
+      "tipo": "Resíduos Perigosos",
+      "exemplos": ["pilhas", "baterias", "lâmpadas fluorescentes", "óleo de cozinha", "eletrônicos", "medicamentos vencidos"],
+      "como_descartar": "Levar a pontos de coleta específicos. Nunca descartar no lixo comum ou na natureza."
+    },
+    {
+      "tipo": "Resíduos de Saúde",
+      "exemplos": ["seringas", "agulhas", "materiais perfurocortantes"],
+      "como_descartar": "Armazenar em recipientes rígidos e identificados. Levar a postos de saúde ou farmácias com coleta."
+    },
+    {
+      "tipo": "Resíduos Orgânicos",
+      "exemplos": ["restos de frutas", "cascas de legumes", "borra de café", "cascas de ovos"],
+      "como_descartar": "Utilizar composteiras domésticas ou comunitárias. Ideal para produção de adubo."
+    }
+  ]
+}
